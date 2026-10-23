@@ -1,6 +1,6 @@
 # Laravel Semantic Deduper
 
-[![Run Tests](https://github.com/illuma-law/laravel-semantic-deduper/actions/workflows/run-tests.yml/badge.svg)](https://github.com/illuma-law/laravel-semantic-deduper/actions/workflows/run-tests.yml)
+[![Run Tests](https://github.com/eloquage/laravel-semantic-deduper/actions/workflows/run-tests.yml/badge.svg)](https://github.com/eloquage/laravel-semantic-deduper/actions/workflows/run-tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Blazing-fast, generic semantic deduplication for Laravel collections and arrays.
