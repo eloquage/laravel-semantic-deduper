@@ -1,5 +1,5 @@
 {
-    "name": "illuma-law/laravel-semantic-deduper",
+    "name": "eloquage/laravel-semantic-deduper",
     "description": "Blazing-fast, generic semantic deduplication for Laravel collections and arrays.",
     "type": "library",
     "license": "MIT",
