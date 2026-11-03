@@ -7,7 +7,7 @@ their embedding vectors. Also includes fuzzy string deduplication and text
 chunking utilities.
 
 [![Tests](https://github.com/eloquage/laravel-semantic-deduper/actions/workflows/run-tests.yml/badge.svg)](https://github.com/eloquage/laravel-semantic-deduper/actions/workflows/run-tests.yml)
-[![Latest Version](https://img.shields.io/packagist/v/illuma-law/laravel-semantic-deduper)](https://packagist.org/packages/illuma-law/laravel-semantic-deduper)
+[![Latest Version](https://img.shields.io/packagist/v/eloquage/laravel-semantic-deduper)](https://packagist.org/packages/eloquage/laravel-semantic-deduper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Requires PHP 8.3+ and Laravel 11, 12, or 13.
@@ -15,7 +15,7 @@ Requires PHP 8.3+ and Laravel 11, 12, or 13.
 ## Install
 
 ```bash
-composer require illuma-law/laravel-semantic-deduper
+composer require eloquage/laravel-semantic-deduper
 php artisan vendor:publish --tag=semantic-deduper-config
 ```
 

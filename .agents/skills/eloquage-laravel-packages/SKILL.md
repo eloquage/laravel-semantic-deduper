@@ -7,7 +7,7 @@ metadata:
 
 # Laravel package development
 
-Use this skill when changing this Composer package: `illuma-law/laravel-semantic-deduper` — Blazing-fast, generic semantic deduplication for Laravel collections and arrays.
+Use this skill when changing this Composer package: `eloquage/laravel-semantic-deduper` — Blazing-fast, generic semantic deduplication for Laravel collections and arrays.
 
 ## Package context
 

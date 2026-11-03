@@ -1,4 +1,4 @@
-# illuma-law/laravel-semantic-deduper
+# eloquage/laravel-semantic-deduper
 
 Deduplicate arrays and collections using semantic similarity (embeddings).
 
